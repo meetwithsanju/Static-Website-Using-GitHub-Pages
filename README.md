@@ -40,7 +40,7 @@ Example:
 ## 📦 Installation & Usage
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/my-shopping-website.git
+   git clone https://github.com/meetwithsanju/Static-Website-Using-GitHub-Pages.git
 📱 Responsive View
 This website is designed to work smoothly on:
 
